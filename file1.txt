@@ -1,3 +1,8 @@
 hello
+<<<<<<< HEAD
 girls
 and boys
+=======
+bapatla
+people
+>>>>>>> sb
